@@ -1,0 +1,15 @@
+
+Release Note of V1.0.1 , 20241012
+
+Fixed #5, Fixed #8 : change led state according to gps fixtype  , 
+  - 1cc445b869ceab4a6f057654050c7c1704faf5c5
+  
+Try to fix #11, #12 :  add Battery Test Screen , 
+  - 12d4f9325dec287ced33cccc8f473fdfe8543b95
+  
+Fixed #10   :  change dragyPro default brightness to 20mA ,
+  - 91b89c498f05c43887148616a1c7edb00d39dd60
+
+Fixed #7   :   fix startTask Bug, rewrite all power on off logic ,
+  - 539bbde7239556d0d671d37a39b227fcb8fce1b1
+  - f8febe9711f98b4071e536dc8df4e0a0d8cb53bc
