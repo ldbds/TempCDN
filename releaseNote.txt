@@ -1,5 +1,11 @@
 
-Release Note of V1.0.1 , 20241012
+
+## Release Note of V1.0.2 , 2024-10-14
+
+Fixed #15 : filedata offset error
+  - bd00da0fdb22d64a5a5fe718dc7625cf16e02a80
+  
+## Release Note of V1.0.1 , 2024-10-12
 
 Fixed #5, Fixed #8 : change led state according to gps fixtype  , 
   - 1cc445b869ceab4a6f057654050c7c1704faf5c5

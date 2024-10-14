@@ -1,0 +1,5 @@
+
+Release Note of V1.0.2 , 20241014
+
+Fixed #15 : filedata offset error
+  - bd00da0fdb22d64a5a5fe718dc7625cf16e02a80
