@@ -18,7 +18,7 @@ A clear and concise description of what you expected to happen.
 **场景截图**
 If applicable, add screenshots to help explain your problem.
 **固件版本**
-- 硬件版本 [e.g. v10.1]
-- 软件版本 [e.g. v1.0.1]
+- 硬件版本 [v10.1]
+- 软件版本 [v1.0.3]
 **其他备注**
 Add any other context about the problem here.
