@@ -1,0 +1,21 @@
+
+Release Note of V1.0.4 , 20241105
+
+      - Fix #51: add os_lock to all notify
+        - ba962033537cf19fd705948f67fa728a5dad8c34
+      - Fix #53: use INT_MIN as invalid speed/height/lat/lng
+        - c5446dc09f2e05af92732944982710bf097cc735
+      - add trace
+        - ca304edda2791179b3d4693c45d0451cbd36a937
+      - add GPIO atom ops
+        - a5e39958316a0d9b7af2320457d7c2dd29311fb5
+      - Fix #50 enable GPS when GYRO enabled
+        - 2cf74cdf9ae231ab3c7986c49689aa1ffb494c91
+      - Fix #41,#45,#49:update filelist info each time update
+        - 7a61a777bffe62f4f3995d1ed763bc6228f81d7e
+      - Fix #50 : add i2c busy reset when gyro enabled
+        - c43c7091c076a0d16d700ca6e00489c524adab14
+      - Feat #40: calibrate battery percentage
+        - bc5e4143ea0007dd6f655d519bb28bfdef14cdde
+      - add LOGLOG to FATFS
+        - a09e48fb389ae4ebdcc1556b23ac5943b8e48d40
