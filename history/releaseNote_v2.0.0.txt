@@ -1,0 +1,10 @@
+
+Release Note of V2.0.0 , 20241129
+
+ - Fix #39  : patch negativeHDisp :9b778f6440580c30efcaf01b2967b5c9b1575e52
+ - Feat #34 : change NAND FLASH to SD FLASH : be4a1415d6fbf72a4501e07a3f22667f0ae01647
+ - Fix #53  : remove NAND FLASH, no unintented ECC correction : be4a1415d6fbf72a4501e07a3f22667f0ae01647
+ - Fix #58  : move TaskUbloxDownward() in front of TaskUblox() : 363fa1ba90fe8392b06783328c20a0d5a87c5058
+ - Fix #57  : Enlarge DragyLite Msg Queue : dd37b5a7e6034fe675f4a794ca6a2d74544e19c2
+ - Fix #57  : SpeedUp SDCard : fefddf63da932569d3f2b9fd1ceba414cd39410e
+ 
