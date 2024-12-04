@@ -1,4 +1,12 @@
 
+## Release Note of V2.0.1 , 20241204
+   
+  - Fix #59 : no wait credit on GPS&GYRO Notify : 
+    - 6e5817ce579843ccb7d6a2b6d2b087429fcd5f81
+  - Fix #60: change SPI CLK from 1MHz to 20MHz : 
+    - 1404755699e071bc393e9646b5e7649a2831f8d4
+
+
 ## Release Note of V2.0.0 , 20241129
 
   - Fix #39  : patch negativeHDisp :
