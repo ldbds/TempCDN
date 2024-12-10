@@ -1,0 +1,9 @@
+
+Release Note of V2.0.2 , 20241210
+    
+   - Fix #61 : revert Fix #59, 6e5817ce579843ccb7d6a2b6d2b087429fcd5f81
+     - 96c4cb889bb40d31c8ded0f7ded15a353a39c564
+   - ReFix #59: revert malFix of #59 , fix of #60 also fix #59 
+     - 96c4cb889bb40d31c8ded0f7ded15a353a39c564
+   - Add more debug trace info
+   
