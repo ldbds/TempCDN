@@ -1,4 +1,10 @@
-
+## Release Note of V2.1.0 , 20241211
+    
+   - change version info in 0x180A deviceinfo
+     - 597b57a95a3800ac4e8ecb5304d3434860010f79
+   - change SDCard Size for DragyLite
+     - e0ef591848589bd54e7d30a7ef1f7e461437575c
+     
 ## Release Note of V2.0.2 , 20241210
     
    - Fix #61 : revert Fix #59, 6e5817ce579843ccb7d6a2b6d2b087429fcd5f81

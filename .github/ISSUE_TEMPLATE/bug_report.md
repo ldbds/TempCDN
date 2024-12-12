@@ -19,6 +19,6 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 **固件版本**
 - 硬件版本 [v11.0]
-- 软件版本 [v2.0.2]
+- 软件版本 [v2.1.0]
 **其他备注**
 Add any other context about the problem here.
