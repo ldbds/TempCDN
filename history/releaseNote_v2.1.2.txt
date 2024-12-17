@@ -1,0 +1,10 @@
+
+Release Note of V2.1.2 , 20241217
+    
+   - Fix #64, change LOG_PIN to SWCLK
+     - 9d7ed5742f08bc02b04df13906415ee5216dcdd6
+   
+   - Fix #65, Change SD SPI Driver
+     - 4f27572bff41cb86534290fd376b11eb360e7ced
+     
+   
